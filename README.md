@@ -1,17 +1,17 @@
-# bemquery-package-boilerplate
+# hello-world
 
-[![Build Status](https://travis-ci.org/BEMQuery/bemquery-package-boilerplate.svg?branch=master)](https://travis-ci.org/BEMQuery/bemquery-package-boilerplate) [![Dependency Status](https://david-dm.org/BEMQuery/bemquery-package-boilerplate.svg)](https://david-dm.org/BEMQuery/bemquery-package-boilerplate) [![devDependency Status](https://david-dm.org/BEMQuery/bemquery-package-boilerplate/dev-status.svg)](https://david-dm.org/BEMQuery/bemquery-package-boilerplate#info=devDependencies)
+[![Build Status](https://travis-ci.org/Comandeer/hello-world.svg?branch=master)](https://travis-ci.org/Comandeer/hello-world) [![Dependency Status](https://david-dm.org/Comandeer/hello-world.svg)](https://david-dm.org/Comandeer/hello-world) [![devDependency Status](https://david-dm.org/Comandeer/hello-world/dev-status.svg)](https://david-dm.org/Comandeer/hello-world#info=devDependencies)
 
-Simple boilerplate
+Simple "Hello world!" module
 
 ---
 
 ## Installation
 
 ```bash
-npm install bemquery-package-boilerplate [--save]
+npm install hello-world [--save]
 ```
 
 ## Documentation
 
-Docs are available at http://bemquery.github.io/bemquery-package-boilerplate
+Docs are available at http://comandeer.github.io/hello-world

@@ -7,6 +7,6 @@ config.plugins.push( babel( {
 	]
 } ) );
 
-config.dest = 'dist/bemquery-package-boilerplate.es5.js';
+config.dest = 'dist/hello-world.es5.js';
 
 export default config;
